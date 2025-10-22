@@ -12,7 +12,7 @@
     Seu navegador não suporta vídeos. Você pode baixar ou abrir o arquivo diretamente: <a href="./videoArduino.mp4">Abrir vídeo</a>
   </video>
 </div>
-Eu coloquei nos arquivos um video do Arduino funcionando, porem se nao funcionar segue link do tinkercad https://www.tinkercad.com/things/kCecpKZWOt5-arduino-semaforo
+Eu coloquei nos arquivos um video do Arduino funcionando, porem se nao funcionar segue link do tinkercad https://www.tinkercad.com/things/kCecpKZWOt5-arduino-semaforo?sharecode=qyKQ-Q0cpD1fwZLwJdgxmNE1ASn_sUm3bDDWFRGTW6k
 
 
 ```
