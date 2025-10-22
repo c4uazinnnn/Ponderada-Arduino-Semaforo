@@ -1,7 +1,7 @@
 # Ponderada-Arduino-Semaforo Caua Pirilo Asquino
 
 <div align="center">
-      <small><strong style="font-size: 12px;">"</strong></small><br>
+      <small><strong style="font-size: 12px;"></strong></small><br>
       <img src="./Arduino.PNG"/><br>
       <small style="margin-top: 4px; font-size: 10px;"></small><br>
 </div>
