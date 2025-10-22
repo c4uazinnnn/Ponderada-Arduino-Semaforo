@@ -2,7 +2,7 @@
 
 <div align="center">
       <small><strong style="font-size: 12px;">"</strong></small><br>
-      <img src="../Ponderada-Arduino-Sem-foro/Arduino.PNG"/><br>
+      <img src="./Arduino.PNG"/><br>
       <small style="margin-top: 4px; font-size: 10px;"></small><br>
 </div>
 
@@ -12,10 +12,6 @@
     Seu navegador não suporta vídeos. Você pode baixar ou abrir o arquivo diretamente: <a href="./videoArduino.mp4">Abrir vídeo</a>
   </video>
 </div>
-
-<!-- Notes: when previewing locally from the filesystem some browsers block media for security reasons;
-     open the repository folder in a simple static server if needed (e.g., `python -m http.server`) -->
-
 
 ```
 // Classe que representa um semáforo
