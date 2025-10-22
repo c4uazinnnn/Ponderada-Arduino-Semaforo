@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Player - videoArduino</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;margin:2rem;background:#f7f7f7;color:#111}
+    .container{max-width:900px;margin:0 auto;background:#fff;padding:1.5rem;border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,0.06)}
+    video{width:100%;height:auto;border-radius:6px;background:#000}
+    .note{font-size:0.9rem;color:#444;margin-top:0.75rem}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Player - videoArduino.mp4</h1>
+    <video controls playsinline preload="metadata">
+      <source src="./videoArduino.mp4" type="video/mp4">
+      Seu navegador não suporta reprodução de vídeo. Abra <a href="./videoArduino.mp4">videoArduino.mp4</a> diretamente.
+    </video>
+    <p class="note">Dica: se o vídeo não tocar ao abrir o arquivo diretamente (file://), rode um servidor local na pasta do projeto. Exemplo (requer Python instalado):
+    <pre>python -m http.server 8000</pre>
+    e abra <a href="http://localhost:8000/player.html">http://localhost:8000/player.html</a></p>
+  </div>
+</body>
+</html>
